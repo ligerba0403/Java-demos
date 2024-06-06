@@ -1,5 +1,4 @@
-/*
-package firstProject;
+
 
 import java.util.Scanner;
 
@@ -51,4 +50,4 @@ public class Calculator {
 	}
 
 }
-*/
+

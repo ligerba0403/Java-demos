@@ -1,9 +1,7 @@
-/*
- * package firstProject;
 
 import java.util.Scanner;
 
-public class wordCounter {
+public class Word_counter {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
@@ -25,4 +23,4 @@ public class wordCounter {
 	}
 
 }
-*/
+

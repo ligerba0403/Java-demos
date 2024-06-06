@@ -1,12 +1,10 @@
-/*
-package firstProject;
 
 import java.util.Scanner;
 
-import javax.naming.AuthenticationException;
 
 
-public class GuessNumber {
+
+public class Guess_number {
 
 	public static void main(String[] args) {
 		
@@ -81,4 +79,4 @@ public class GuessNumber {
 	}
 
 }
-*/
+
