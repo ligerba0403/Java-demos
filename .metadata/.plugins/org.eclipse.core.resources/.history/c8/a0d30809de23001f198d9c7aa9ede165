@@ -1,0 +1,13 @@
+package firstProject;
+
+public class GuessNumber {
+
+	public static void main(String[] args) {
+		int random = (int) (Math.random() * 100 + 1 );
+		
+	}
+	public String clue(int x) {
+		return "  ";
+	}
+
+}
