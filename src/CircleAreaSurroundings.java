@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class circleAreaSurroundings {
+public class CircleAreaSurroundings {
 
 	public static void main(String[] args) {
 		
